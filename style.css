@@ -133,7 +133,7 @@ li {
 }
 .services__card {
   width: 300px;
-  height: 300px;
+  height: unset;
   background-color: #F4F3F0;
   padding: 3% 2%;
   border-radius: 5vh;
